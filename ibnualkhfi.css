@@ -1,0 +1,42 @@
+*{
+    font-family: tahoma;
+}
+    #artikel {
+    font-weight: bold;
+    color: brown;
+   }
+
+   .tanggal {  
+      color:blue
+
+   }
+    
+    h3{
+        font-size: 12px;
+
+    }
+
+    .credit{
+        font-weight: bold;
+    }
+
+    .penulis{
+        font-weight: bold;
+        color:rgb(0, 255, 255)
+    }
+     
+    p{
+        color:rgb(0, 0, 0)
+    }
+
+    h3+p{
+        color:blue
+    }
+
+    span{
+        color: brown
+    }
+
+    #artikel-2{
+        color: rgb(14, 12, 7) 
+    }        
